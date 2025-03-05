@@ -1,4 +1,4 @@
-Proyecto Amigo Secreto
+                                  Proyecto Amigo Secreto
 
  ![image](https://github.com/user-attachments/assets/effc1745-1918-4652-945c-7180013dce4b)
 
@@ -12,10 +12,11 @@ Al finalizar el ingreso de los participantes, dando click en el boton de sorteo 
  ![image](https://github.com/user-attachments/assets/f3a72b78-d1d1-420f-acb4-93ace96e8df8)
 
 
-Agradecimientos especiales
+                          Agradecimientos especiales
  
 ![image](https://github.com/user-attachments/assets/83593cea-4add-476d-a3f8-fef5d80f7bd1)
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/ae39aeaf-8f50-4fb9-a00c-82793526af5d)
 
 
  
